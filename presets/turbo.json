@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "DreamShaperXL_Turbo_v2_1.safetensors": "https://huggingface.co/Lykon/dreamshaper-xl-v2-turbo/blob/main/DreamShaperXL_Turbo_v2_1.safetensors"
+        "DreamShaperXL_Turbo_v2_1.safetensors": "https://huggingface.co/Lykon/dreamshaper-xl-v2-turbo/resolve/main/DreamShaperXL_Turbo_v2_1.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
